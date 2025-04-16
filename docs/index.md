@@ -30,4 +30,4 @@ In deze workshop gaan we code gebruiken om interactieve en speelse kunstwerken t
 + Gif's tonen
 
 
-![Buttons](beeld/frame.jpg)
+![frame](beeld/frame.jpg)
