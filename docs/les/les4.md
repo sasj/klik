@@ -51,4 +51,3 @@ In deze les gaan we GIF's tonen en veranderen met behulp van toetsaanslagen. We 
     }
     ```
 
-Met deze code kun je door de twee GIF's bladeren door op de toetsen `1` en `2` te drukken. Elke toets toont een andere GIF.
