@@ -21,7 +21,7 @@ haal eruit wat eruit kan, voeg toe wat er kan worden toegevoegd
 - 
 
 verander de code tussen `https://media.giphy.com/media/` & `giphy.gif` met de code in de URL
-    ```javascript
 
+```javascript
 createImg("https://media.giphy.com/media/1pAhncsuyFjcixgtLY/giphy.gif");
 ```
