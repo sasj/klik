@@ -5,13 +5,13 @@ toc:
         url: /klik/overzicht-functies/funcs_audio
   - title: Lessen
     subfolderitems:
-      - page: 1 - klik
+      - page: 1 - klik? 
         url: /klik/les/les1
-      - page: Les 2
+      - page: 2 - p5js 
         url: /klik/les/les2
-      - page: Les 3
+      - page: 3 - Knop
         url: /klik/les/les3
-      - page: Les 4
+      - page: 4 - Gif's
         url: /klik/les/les4
-      - page: Les 5
-        url: /klik/les/les5
+      - page: Opdracht 1
+        url: /klik/les/opdracht1

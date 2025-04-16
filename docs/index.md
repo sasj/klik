@@ -8,4 +8,26 @@ In deze workshop gaan we code gebruiken om interactieve en speelse kunstwerken t
 ---
 
 
-## Beginnen
+## Wat gaan we leren?
+
+**Basisbegrippen van p5.js:** Leer hoe je setup(), draw(), createCanvas(), en background() gebruikt om een basis te leggen voor je projecten.
+
+**Interactie met de Muis:** Leer hoe je de muispositie kunt gebruiken en reageren op muisklikken met mousePressed en mouseIsPressed.
+
+**Tekenen en Kleuren:** Leer hoe je vormen zoals ellipsen tekent en kleuren instelt met fill() en background().
+
+**Voorwaardelijke Logica:** Leer hoe je voorwaardelijke statements (if statements) en boolean variabelen kunt gebruiken om interactieve elementen te maken.
+
+**GIF's Laden en Tonen:** Leer hoe je GIF's kunt laden, tonen en verbergen, en hoe je deze kunt veranderen op basis van toetsaanslagen met keyTyped().
+
+
+
+## Programma
+* Kennismaken en voorbeelden
+* Introductie - wat is interactie
+* Aan de slag met p5.js 
+* Knop maken
++ Gif's tonen
+
+
+![Buttons](beeld/frame.jpg)

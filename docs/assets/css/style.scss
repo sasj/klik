@@ -26,11 +26,15 @@ header li:first-child a {
 header ul a {
     line-height: 1;
     font-size: 11px;
-    color: #676767;
+    color: #5E5E92;
     display: block;
     text-align: left;
     padding-top: 6px;
     height: auto;
+  }
+
+  a {
+    color: #5E5E92;
   }
 
   header ul li+li+li {
